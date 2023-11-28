@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,700');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat, sans-serif;
+}
+
+
+/* Folosit pentru a declara variabile globale */
+:root {
+  --light-blue: #1c9eff ;
+  --dark-blue: #007ad6;
+  --btn-yellow: #ffd01a ;
+  --btn-hover-yellow: #efb10a;
+  --btn-active-yellow: #e8a200;
+  --light-grey: #f2f2f2;
+  --grey: #a0a0a0;
+  --pink: #ff9eaa;
+}
+
+.card .banner {
+  background: url('https://images.pexels.com/photos/2726046/pexels-photo-2726046.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+}
